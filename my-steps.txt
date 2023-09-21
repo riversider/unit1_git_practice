@@ -1,0 +1,362 @@
+### Step 2A
+/c/Users/Trinyte
+
+
+### Step 2B
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop
+
+
+### Step 2C
+$ cd unit1-git-practice
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+
+
+
+
+### Step 2D
+$$ pwd
+/c/Users/Trinyte/Desktop/unit1-git-practice
+
+### Step 2E
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+
+
+### Step 2F
+
+$ ls
+my-steps.txt
+
+### Step 2G
+$ cd ~
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~
+$
+
+
+### Step 2H
+Trinyte@DESKTOP-OGABLKG MINGW64 ~
+
+
+
+### Step 2I
+
+$ pwd
+/c/Users/Trinyte
+
+### Step 2J
+
+$ cd ~
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~
+$
+
+### Step 2K
+
+$ cd ~
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~
+$ cd Desktop
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop
+$ ls
+'GitHub Desktop.lnk'*   desktop.ini  'kids Stuff'/   unit1-git-practice/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop
+$ cd unit1-git-practice
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ pwd
+/c/Users/Trinyte/Desktop/unit1-git-practice
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$
+
+
+### Step 3A
+
+$ pwd
+/c/Users/Trinyte/Desktop/unit1-git-practice
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ mkdir veggies
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ mkdir meats
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ mkdir desserts
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+desserts/  meats/  my-steps.txt  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+
+### Step 3B
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ mv desserts sweets
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+meats/  my-steps.txt  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$
+
+### Step 3C
+$ mkdir proteins
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+meats/  my-steps.txt  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$
+
+
+### Step 3D
+$ mv meats proteins
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ cd proteins
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins
+$ ls
+meats/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins
+$ cd ..
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$
+
+
+### Step 3E
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/veggies
+$ ls
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/veggies
+$ touch carrot.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/veggies
+$ touch pea.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/veggies
+$ ls
+carrot.txt  pea.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/veggies
+$
+
+
+### Step 3F
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/veggies
+$ cd ..
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ cd sweets
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/sweets
+$ touch cookie.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/sweets
+$ ls
+cookie.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/sweets
+$
+
+
+### Step 3G
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/sweets
+$ mv cookie.txt donut.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/sweets
+$ ls
+donut.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/sweets
+$
+
+
+### Step 3H
+$ touch thing.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  thing.txt  veggies/
+
+
+
+### Step 3I
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ cp thing.txt tofu.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ l
+bash: l: command not found
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  thing.txt  tofu.txt  veggies/
+
+
+
+### Step 3J
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ mv tofu.txt proteins
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  thing.txt  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ cd proteins
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins
+$ ls
+meats/  tofu.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins
+$
+
+### Step 3K
+$ mv thing.txt crab.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ mv crab.txt proteins
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ cd proteins
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins
+$ ls
+crab.txt  meats/  tofu.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins
+$ mv crab.txt meats
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins
+$ cd meats
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins/meats
+$ ls
+crab.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice/proteins/meats
+$
+
+
+### Step 3L
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  thing.txt  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ rm thing.txt
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$
+
+### Step 3M
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ cp -r veggies plants
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  plants/  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$
+
+
+### Step 3N
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ mkdir drinks
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+drinks/  my-steps.txt  plants/  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ rm -r drinks
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  plants/  proteins/  sweets/  veggies/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice
+$
+
+
+### Step 4
+$ git init
+Initialized empty Git repository in C:/Users/Trinyte/Desktop/unit1-git-practice/.git/
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice (master)
+$ git add .
+warning: in the working copy of 'my-steps.txt', LF will be replaced by CRLF the next time Git touches it
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice (master)
+$ git commit -m 'first commit'
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Trinyte@DESKTOP-OGABLKG.(none)')
+
+Trinyte@DESKTOP-OGABLKG MINGW64 ~/Desktop/unit1-git-practice (master)
+$
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
